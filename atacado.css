@@ -67,7 +67,6 @@ h1, h2, h3 {
   padding: 14px 20px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 
 .nav-logo {
@@ -80,27 +79,33 @@ h1, h2, h3 {
   color: var(--texto);
 }
 
-.nav-cta {
-  background: #25d366;
-  color: #fff;
-  padding: 9px 18px;
-  border-radius: 999px;
-  font-size: 0.85rem;
-  font-weight: 700;
-  text-decoration: none;
-}
-
 /* Hero */
 .hero {
-  background:
-    radial-gradient(circle at 15% 20%, rgba(201, 138, 156, 0.35), transparent 55%),
-    radial-gradient(circle at 85% 0%, rgba(138, 85, 102, 0.3), transparent 50%),
-    var(--rosa-quase-preto);
+  position: relative;
+  overflow: hidden;
   color: #fff;
   padding: 76px 20px 64px;
 }
 
+.hero-fundo {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center 25%;
+}
+
+.hero-fundo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 15% 20%, rgba(201, 138, 156, 0.35), transparent 55%),
+    radial-gradient(circle at 85% 0%, rgba(138, 85, 102, 0.35), transparent 50%),
+    linear-gradient(rgba(58, 37, 48, 0.82), rgba(58, 37, 48, 0.88));
+}
+
 .hero-conteudo {
+  position: relative;
   max-width: 780px;
   margin: 0 auto;
   text-align: center;
@@ -155,14 +160,6 @@ h1, h2, h3 {
   border-color: rgba(255, 255, 255, 0.4);
 }
 
-.hero-telefone {
-  display: block;
-  color: #e6d3d8;
-  font-size: 0.85rem;
-  opacity: 0.75;
-  margin-bottom: 36px;
-}
-
 .hero-marcas {
   display: flex;
   flex-wrap: wrap;
@@ -190,37 +187,6 @@ h1, h2, h3 {
   display: block;
 }
 
-/* Números */
-.numeros {
-  background: #fff;
-  border-bottom: 1px solid var(--borda);
-}
-
-.numeros-grid {
-  max-width: 1080px;
-  margin: 0 auto;
-  padding: 32px 20px;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
-  text-align: center;
-}
-
-.numero {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-}
-
-.numero strong {
-  font-size: 1.6rem;
-  color: var(--rosa-escuro);
-}
-
-.numero span {
-  font-size: 0.78rem;
-  color: var(--texto-suave);
-}
 
 /* Seções genéricas */
 section.marcas,
@@ -478,18 +444,6 @@ section h2 {
 .cta-final p {
   margin: 0 0 28px;
   color: #f7e8ec;
-}
-
-.cta-final .botao-primario {
-  background: #fff;
-  color: var(--rosa-escuro);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-}
-
-.botao-whatsapp {
-  background: #25d366;
-  color: #fff;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
 /* Rodapé */

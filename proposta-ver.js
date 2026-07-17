@@ -87,6 +87,7 @@
         ${descontoPct > 0 ? `<div class="linha"><span>Desconto</span><span>-${descontoPct}%</span></div>` : ""}
         <div class="linha total"><span>Total</span><span>${formatoMoeda(totalFinal)}</span></div>
       </div>
+      <div class="aviso-cambio">Valores calculados com base no câmbio do dia — podem sofrer alterações conforme a variação da moeda.</div>
       <div class="rodape">Proposta gerada digitalmente.</div>
     `;
   }

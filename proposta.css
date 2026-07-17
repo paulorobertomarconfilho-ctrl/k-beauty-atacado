@@ -64,6 +64,13 @@ header.topo p {
   color: var(--rosa-escuro);
 }
 
+.aviso-cambio {
+  font-size: 0.75rem;
+  color: var(--texto-suave);
+  margin: -4px 0 10px;
+  line-height: 1.4;
+}
+
 .campo {
   margin-bottom: 10px;
 }

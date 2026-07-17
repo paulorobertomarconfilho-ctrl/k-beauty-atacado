@@ -143,6 +143,14 @@ body {
   margin-top: 8px;
 }
 
+.aviso-cambio {
+  text-align: center;
+  font-size: 0.72rem;
+  color: var(--texto-suave);
+  margin-top: 14px;
+  line-height: 1.4;
+}
+
 .rodape {
   text-align: center;
   font-size: 0.72rem;
