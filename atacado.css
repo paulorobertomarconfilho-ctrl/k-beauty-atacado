@@ -81,7 +81,7 @@ h1, h2, h3 {
 }
 
 .nav-cta {
-  background: var(--rosa-escuro);
+  background: #25d366;
   color: #fff;
   padding: 9px 18px;
   border-radius: 999px;
@@ -155,19 +155,12 @@ h1, h2, h3 {
   border-color: rgba(255, 255, 255, 0.4);
 }
 
-.hero-whatsapp {
-  display: inline-block;
-  color: #d9f2e3;
-  font-size: 0.88rem;
-  font-weight: 600;
-  text-decoration: none;
-  opacity: 0.9;
+.hero-telefone {
+  display: block;
+  color: #e6d3d8;
+  font-size: 0.85rem;
+  opacity: 0.75;
   margin-bottom: 36px;
-}
-
-.hero-whatsapp:hover {
-  opacity: 1;
-  text-decoration: underline;
 }
 
 .hero-marcas {
@@ -491,13 +484,6 @@ section h2 {
   background: #fff;
   color: var(--rosa-escuro);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-}
-
-.cta-final-acoes {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 14px;
 }
 
 .botao-whatsapp {
