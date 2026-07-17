@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Gerador de Propostas</title>
+<link rel="stylesheet" href="proposta.css" />
+</head>
+<body>
+<header class="topo">
+  <h1>Gerador de Propostas</h1>
+  <p>Monte a proposta e gere um link para enviar ao cliente</p>
+</header>
+
+<div class="container">
+
+  <div class="bloco">
+    <h2>Dados da proposta</h2>
+    <div class="campo">
+      <label for="nomeCliente">Nome do cliente (opcional)</label>
+      <input type="text" id="nomeCliente" placeholder="Ex: Maria Silva" />
+    </div>
+    <div class="linha-2">
+      <div class="campo">
+        <label for="desconto">Desconto (%)</label>
+        <input type="number" id="desconto" min="0" max="100" step="1" value="0" />
+      </div>
+      <div class="campo">
+        <label for="nomeVendedor">Seu nome / marca</label>
+        <input type="text" id="nomeVendedor" placeholder="Ex: Studio K-Beauty" />
+      </div>
+    </div>
+  </div>
+
+  <div class="bloco">
+    <h2>Catálogo</h2>
+    <input type="search" class="busca" id="busca" placeholder="Buscar produto..." />
+    <div class="filtros" id="filtrosMarca"></div>
+    <div class="lista-produtos" id="listaProdutos"></div>
+  </div>
+
+</div>
+
+<div class="barra-inferior">
+  <div class="resumo">
+    <div class="qtd-itens" id="resumoItens">0 itens</div>
+    <div class="total" id="resumoTotal">R$ 0,00</div>
+  </div>
+  <button class="botao botao-primario" id="btnGerar" disabled>Gerar proposta</button>
+</div>
+
+<div class="modal-fundo" id="modalFundo">
+  <div class="modal">
+    <h3>Proposta pronta</h3>
+    <div class="link-caixa">
+      <input type="text" id="linkGerado" readonly />
+      <button class="botao botao-secundario" id="btnCopiar">Copiar</button>
+    </div>
+    <div class="aviso-copiado" id="avisoCopiado"></div>
+    <div class="acoes">
+      <button class="botao botao-secundario" id="btnFechar">Fechar</button>
+      <a class="botao botao-primario" id="btnWhatsapp" href="#" target="_blank" style="text-decoration:none; text-align:center;">Enviar por WhatsApp</a>
+    </div>
+  </div>
+</div>
+
+<script src="proposta.js"></script>
+</body>
+</html>

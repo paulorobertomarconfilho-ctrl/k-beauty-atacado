@@ -1,0 +1,25 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/private/tmp/claude-501/-Users-paulomarcon-Desktop-PROJETOS-CLAUDE-CODE-CLAUDE-PROJETO/5d454dba-8db5-429c-97e2-28190526c9e0/scratchpad/atacado-deploy"
+publishOrigin = "default"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]

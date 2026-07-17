@@ -1,0 +1,870 @@
+[
+  {
+    "codigo": "1586763",
+    "marca": "Celimax",
+    "referencia": "8809606850505",
+    "nome": "CREME FACIAL CELIMAX DUAL BARRIER SKIN WEARABLE 50ML (850505)",
+    "preco": 134.9
+  },
+  {
+    "codigo": "1577662",
+    "marca": "Celimax",
+    "referencia": "8809971484503",
+    "nome": "CREME FACIAL CELIMAX PORE + DARK SPOT BRIGHTENING CREAM 35ML (484503)",
+    "preco": 109.9
+  },
+  {
+    "codigo": "1586671",
+    "marca": "Celimax",
+    "referencia": "8809686386185",
+    "nome": "CREME FACIAL CELIMAX THE REAL NONI ENERGY REPAIR CREAM 50ML (386185)",
+    "preco": 155.9
+  },
+  {
+    "codigo": "1586695",
+    "marca": "Celimax",
+    "referencia": "8809463992615",
+    "nome": "ESFOLIANTE FACIAL CELIMAX HEARTLEAF BHA PEELING PAD (60UNID)125M(92615",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1608410",
+    "marca": "Celimax",
+    "referencia": "8809971482349",
+    "nome": "KIT FACIAL CELIMAX THE REAL NONI STARTER (3UNI) (482349)",
+    "preco": 180.9
+  },
+  {
+    "codigo": "1608427",
+    "marca": "Celimax",
+    "referencia": "8809700321079",
+    "nome": "KIT FACIAL CELIMAX THE VITA-A 7DAYS SERUM+BOOSTER (7UNI) (321079)",
+    "preco": 79.9
+  },
+  {
+    "codigo": "1586657",
+    "marca": "Celimax",
+    "referencia": "8809975194439",
+    "nome": "LIMPEZA FACIAL CELIMAX DERMA NATUR RELIEF MADECICA PH BALAN 150ML(4439",
+    "preco": 130.9
+  },
+  {
+    "codigo": "1586640",
+    "marca": "Celimax",
+    "referencia": "8809783324097",
+    "nome": "LIMPEZA FACIAL CELIMAX JI WOO GAE CICA BHA ACNE FOAM CLEANS 150ML(4097",
+    "preco": 155.9
+  },
+  {
+    "codigo": "1608397",
+    "marca": "Celimax",
+    "referencia": "8809541379468",
+    "nome": "LIMPEZA FACIAL CELIMAX THE REAL NONI ACNE BUBBLE CLEAN 155ML (379468)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1608250",
+    "marca": "Celimax",
+    "referencia": "8800296557255",
+    "nome": "MASCARA FACIAL CELIMAX JI WOO GAE CICA PHA PEEL 2- STEP GEL(4U)30G(7255",
+    "preco": 163.9
+  },
+  {
+    "codigo": "1586664",
+    "marca": "Celimax",
+    "referencia": "8809954940354",
+    "nome": "MASCARA FACIAL CELIMAX NONI REFRESH CLAY MASK 120GR (940354)",
+    "preco": 121.9
+  },
+  {
+    "codigo": "1586749",
+    "marca": "Celimax",
+    "referencia": "8809954940477",
+    "nome": "MIST FACIAL CELIMAX NONI ENERGY AMPOULE 50ML (940477)",
+    "preco": 142.9
+  },
+  {
+    "codigo": "1586794",
+    "marca": "Celimax",
+    "referencia": "8806050298525",
+    "nome": "OLEO FACIAL CELIMAX FRESH BLACKHEAD JOJOBA CLEANSING OIL 150ML (298525",
+    "preco": 155.9
+  },
+  {
+    "codigo": "1608274",
+    "marca": "Celimax",
+    "referencia": "8809686388172",
+    "nome": "PROTETOR SOLAR FACIAL CELIMAX DUAL BARRIER WAT SUN SPF50+ 40ML (388172",
+    "preco": 189.9
+  },
+  {
+    "codigo": "1608403",
+    "marca": "Celimax",
+    "referencia": "8809971489911",
+    "nome": "PROTETOR SOLAR FACIAL CELIMAX OIL CONT MATTIFYING STIC SPF50+ 19G(9911",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1586756",
+    "marca": "Celimax",
+    "referencia": "8809606850482",
+    "nome": "SERUM FACIAL CELIMAX DUAL BARRIER BOOSTING 30ML (850482)",
+    "preco": 205.9
+  },
+  {
+    "codigo": "1584691",
+    "marca": "Celimax",
+    "referencia": "8809875907795",
+    "nome": "SERUM FACIAL CELIMAX NONI ENERGY CALMING+RADIANCE AMPOULE 30ML (907795",
+    "preco": 134.9
+  },
+  {
+    "codigo": "1586800",
+    "marca": "Celimax",
+    "referencia": "8809782559018",
+    "nome": "SERUM FACIAL CELIMAX OIL CONTROL CAPSULE ESSENCE 30ML (559018)",
+    "preco": 172.9
+  },
+  {
+    "codigo": "1608267",
+    "marca": "Celimax",
+    "referencia": "8809971482318",
+    "nome": "SERUM FACIAL CELIMAX THE REAL NONI ENERGY AMPOULE 50ML (482318)",
+    "preco": 138.9
+  },
+  {
+    "codigo": "1608441",
+    "marca": "Celimax",
+    "referencia": "8809700321048",
+    "nome": "SERUM FACIAL CELIMAX THE VITA-A RETIN SHOT TIGHT BOOST SACHET 1M(21048",
+    "preco": 16.9
+  },
+  {
+    "codigo": "1553376",
+    "marca": "Celimax",
+    "referencia": "8809700320812",
+    "nome": "SERUM FACIAL CELIMAX THE VITA-A RETINAL SHOT TIGHTENING BOOST 15(20812",
+    "preco": 126.9
+  },
+  {
+    "codigo": "1608458",
+    "marca": "Celimax",
+    "referencia": "8809700321031",
+    "nome": "SERUM FACIAL CELIMAX THE VITA-A RETINOL SHOT TIGHT SACHET 1ML (321031)",
+    "preco": 8.9
+  },
+  {
+    "codigo": "1553383",
+    "marca": "Celimax",
+    "referencia": "8809700320805",
+    "nome": "SERUM FACIAL CELIMAX THE VITA-A RETINOL SHOT TIGHTENING 30ML (320805)",
+    "preco": 100.9
+  },
+  {
+    "codigo": "1586633",
+    "marca": "Celimax",
+    "referencia": "8809463992707",
+    "nome": "TONICO CORPO CELIMAX ONE STEP BODY BRIGHTENING PAD (60UNID)110ML(92707",
+    "preco": 155.9
+  },
+  {
+    "codigo": "1586718",
+    "marca": "Celimax",
+    "referencia": "8809606850475",
+    "nome": "TONICO FACIAL CELIMAX DUAL BARRIER CREAMY 150ML (850475)",
+    "preco": 126.9
+  },
+  {
+    "codigo": "1586701",
+    "marca": "Celimax",
+    "referencia": "8809783321225",
+    "nome": "TONICO FACIAL CELIMAX JI WOO GAE CICA BHA BLEMISH PAD (60UN)170ML(1225",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1586688",
+    "marca": "Celimax",
+    "referencia": "8809954940132",
+    "nome": "TONICO FACIAL CELIMAX NONI MOISTURE BALANCING 150ML (940132)",
+    "preco": 205.9
+  },
+  {
+    "codigo": "1608281",
+    "marca": "Celimax",
+    "referencia": "8809743547467",
+    "nome": "TONICO FACIAL CELIMAX PORE+ DARK SPOT BRIGHT PAD (80UNI)175ML (547467)",
+    "preco": 117.9
+  },
+  {
+    "codigo": "1586787",
+    "marca": "Celimax",
+    "referencia": "8809743546323",
+    "nome": "TONICO FACIAL CELIMAX PORE+DARK SPOT BRIGHTENING PAD (40UNI)100M(46323",
+    "preco": 109.9
+  },
+  {
+    "codigo": "1603927",
+    "marca": "Medicube",
+    "referencia": "8809883884088",
+    "nome": "APLICADOR FACIAL MEDICUBE JELLY BRUSH BRANCO/DOURADO (884088)",
+    "preco": 50.9
+  },
+  {
+    "codigo": "1603897",
+    "marca": "Medicube",
+    "referencia": "8809960355425",
+    "nome": "APLICADOR FACIAL MEDICUBE MULTI BLACKHEAD PORE BRUSH BRAN/AZU (355425)",
+    "preco": 67.9
+  },
+  {
+    "codigo": "1518665",
+    "marca": "Medicube",
+    "referencia": "8800256119042",
+    "nome": "CREME CONTORNO OLHOS MEDICUBE PDRN PINK PEPTIDE EYE CREAM 30ML (119042",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1518450",
+    "marca": "Medicube",
+    "referencia": "8800240573188",
+    "nome": "CREME FACIAL MEDICUBE AGE-R GLUTATHIONE GLOW CAPSULE CREAM 50ML(573188",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1500103",
+    "marca": "Medicube",
+    "referencia": "8800256112227",
+    "nome": "CREME FACIAL MEDICUBE COLLAGEN JELLY CREAM 50ML (X004E3I7I7/112227)",
+    "preco": 121.9
+  },
+  {
+    "codigo": "1518498",
+    "marca": "Medicube",
+    "referencia": "8809982769903",
+    "nome": "CREME FACIAL MEDICUBE COLLAGEN JELLY CREAM 110ML (769903)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1500110",
+    "marca": "Medicube",
+    "referencia": "8809982769866",
+    "nome": "CREME FACIAL MEDICUBE DEEP VITA C CAPSULE CREAM 55G (X00481MRA9/769866",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1566987",
+    "marca": "Medicube",
+    "referencia": "8800256112142",
+    "nome": "CREME FACIAL MEDICUBE EXOSOME CICA 50ML (112142)",
+    "preco": 117.9
+  },
+  {
+    "codigo": "1628425",
+    "marca": "Medicube",
+    "referencia": "8800289467714",
+    "nome": "CREME FACIAL MEDICUBE PDRN PINK COLLAGEN CAPSULE CREAM 55G (467714)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1518634",
+    "marca": "Medicube",
+    "referencia": "8800256113101",
+    "nome": "CREME FACIAL MEDICUBE PDRN PINK HYALURONIC MOISTURIZING CREAM 50(3101)",
+    "preco": 147.9
+  },
+  {
+    "codigo": "1586824",
+    "marca": "Medicube",
+    "referencia": "8800256114313",
+    "nome": "CREME FACIAL MEDICUBE TRIPLE COLLAGEN CREAM 4.0 50ML (114313)",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1567052",
+    "marca": "Medicube",
+    "referencia": "8800256119660",
+    "nome": "CREME FACIAL MEDICUBE TXA NIACINAMIDE CAPSULE 55G (119660)",
+    "preco": 163.9
+  },
+  {
+    "codigo": "1567076",
+    "marca": "Medicube",
+    "referencia": "8800240567330",
+    "nome": "CREME FACIAL MEDICUBE ZERO PORE 2.0 50ML (567330)",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1518702",
+    "marca": "Medicube",
+    "referencia": "8800240567354",
+    "nome": "CREME FACIAL MEDICUBE ZERO PORE ONE DAY CREAM 50ML (567354)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1567021",
+    "marca": "Medicube",
+    "referencia": "8800240576233",
+    "nome": "ESFOLIANTE CORPO MEDICUBE RED ACNE BODY PEELING SHOT 110G (576233)",
+    "preco": 134.9
+  },
+  {
+    "codigo": "1614855",
+    "marca": "Medicube",
+    "referencia": "8809517413936",
+    "nome": "ESFOLIANTE CORPO MEDICUBE RED CLEAR CICA BODY MIST 200ML (413936)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1534115",
+    "marca": "Medicube",
+    "referencia": "8809960356170",
+    "nome": "ESFOLIANTE FACIAL MEDICUBE RED SUCCINIC ACID PEELING PAD(70UN)155(6170",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1518528",
+    "marca": "Medicube",
+    "referencia": "8800256114979",
+    "nome": "GEL FACIAL MEDICUBE PDRN BOOSTER 300ML (114979)",
+    "preco": 142.9
+  },
+  {
+    "codigo": "1646436",
+    "marca": "Medicube",
+    "referencia": "8809913368748",
+    "nome": "LENCO DESINFETANTE MEDICUBE AGE-R SANITIZING WIPES(30UN))748(FRA DANI)",
+    "preco": 53.9
+  },
+  {
+    "codigo": "1603965",
+    "marca": "Medicube",
+    "referencia": "8809913368748",
+    "nome": "LENCO DESINFETANTE MEDICUBE AGE-R SANITIZING WIPES(30UNI) (368748)",
+    "preco": 58.9
+  },
+  {
+    "codigo": "1586831",
+    "marca": "Medicube",
+    "referencia": "8800289474958",
+    "nome": "LIMPEZA FACIAL MEDICUBE KOJIC ACID TURMERIC TONING CLEANSER 120G(74958",
+    "preco": 126.9
+  },
+  {
+    "codigo": "1503722",
+    "marca": "Medicube",
+    "referencia": "8800240567347",
+    "nome": "LIMPEZA FACIAL MEDICUBE SUPER CICA DEEP CLEANSING BALM 100ML (567347)",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1500240",
+    "marca": "Medicube",
+    "referencia": "8800256113217",
+    "nome": "MASCARA FACIAL MEDICUBE COLLAG NIGHT WRAPPING MASK 75ML(X003L63KGR/217",
+    "preco": 142.9
+  },
+  {
+    "codigo": "1518399",
+    "marca": "Medicube",
+    "referencia": "8809517411741",
+    "nome": "MASCARA FACIAL MEDICUBE COLLAGEN LIFTING MASK (1UNIDAD) 27G (411741)",
+    "preco": 25.9
+  },
+  {
+    "codigo": "1638868",
+    "marca": "Medicube",
+    "referencia": "8809982769941",
+    "nome": "MASCARA FACIAL MEDICUBE DEEP VIT C DAI QUIC MASK(30U)(9941)(FRAS DANIF",
+    "preco": 143.9
+  },
+  {
+    "codigo": "1503630",
+    "marca": "Medicube",
+    "referencia": "8809982769941",
+    "nome": "MASCARA FACIAL MEDICUBE DEEP VITA C DAILY QUICK MASK (30UN)350G(769941",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1630022",
+    "marca": "Medicube",
+    "referencia": "8809982769941",
+    "nome": "MASCARA FACIAL MEDICUBE DEEP VITA C DAILY QUICK MASK(30U)(9941)(FRA DA",
+    "preco": 184.9
+  },
+  {
+    "codigo": "1503647",
+    "marca": "Medicube",
+    "referencia": "8800289474859",
+    "nome": "MASCARA FACIAL MEDICUBE KOJIC ACID TURMERI NIGH WRAPPI 75ML(14580/4859",
+    "preco": 134.9
+  },
+  {
+    "codigo": "1567014",
+    "marca": "Medicube",
+    "referencia": "8800256114603",
+    "nome": "MASCARA FACIAL MEDICUBE KOJIC ACID TURMERIC BRIGHTNING (4UN)28G (14603",
+    "preco": 142.9
+  },
+  {
+    "codigo": "1597035",
+    "marca": "Medicube",
+    "referencia": "8800289474774",
+    "nome": "MASCARA FACIAL MEDICUBE PDRN PINK CAFFEINE NIGHT WRAPPING 75ML (474774",
+    "preco": 176.9
+  },
+  {
+    "codigo": "1534139",
+    "marca": "Medicube",
+    "referencia": "8800289470165",
+    "nome": "MASCARA FACIAL MEDICUBE PDRN PINK VITA COATING (1UNI) 22G (470165)",
+    "preco": 25.9
+  },
+  {
+    "codigo": "1520415",
+    "marca": "Medicube",
+    "referencia": "8809960356767",
+    "nome": "MASCARA FACIAL MEDICUBE ZERO PORE BLACKHEAD MUD MASK 100G (356767)",
+    "preco": 126.9
+  },
+  {
+    "codigo": "1518405",
+    "marca": "Medicube",
+    "referencia": "8800240569969",
+    "nome": "MASCARA FACIAL MEDICUBE ZERO PORE COOLING MASK (1UNIDAD) 27G (569969)",
+    "preco": 25.9
+  },
+  {
+    "codigo": "1518535",
+    "marca": "Medicube",
+    "referencia": "8800289470455",
+    "nome": "MASCARA LABIAL MEDICUBE PDRN LIP SLEEPING MASK 10GR (470455)",
+    "preco": 100.9
+  },
+  {
+    "codigo": "1577709",
+    "marca": "Medicube",
+    "referencia": "8800289479502",
+    "nome": "MIST FACIAL MEDICUBE HYPOCHLOROUS ACID DAILY SPRAY 50ML (479502)",
+    "preco": 109.9
+  },
+  {
+    "codigo": "1577693",
+    "marca": "Medicube",
+    "referencia": "8800289479991",
+    "nome": "MIST FACIAL MEDICUBE HYPOCHLOROUS ACID DAILY SPRAY 125ML (479991)",
+    "preco": 126.9
+  },
+  {
+    "codigo": "1606249",
+    "marca": "Medicube",
+    "referencia": "8800289475092",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R BOOSTER CLEAN DEVIC HEAD BEI(5092",
+    "preco": 579.9
+  },
+  {
+    "codigo": "1604412",
+    "marca": "Medicube",
+    "referencia": "8800289475085",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R BOOSTER CLEAN DEVIC HEAD ROSA(085",
+    "preco": 579.9
+  },
+  {
+    "codigo": "1481075",
+    "marca": "Medicube",
+    "referencia": "8809960354732",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R BOOSTER PRO 6EM1 PRETO (354732)",
+    "preco": 1386.9
+  },
+  {
+    "codigo": "1504200",
+    "marca": "Medicube",
+    "referencia": "8800256114481",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R BOOSTER PRO 6EM1 ROSA (114481)",
+    "preco": 1386.9
+  },
+  {
+    "codigo": "1611175",
+    "marca": "Medicube",
+    "referencia": "8800289475238",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R BOOSTER PRO MINI PLUS BEIGE(75238",
+    "preco": 831.9
+  },
+  {
+    "codigo": "1611168",
+    "marca": "Medicube",
+    "referencia": "8800289475221",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R BOOSTER PRO MINI PLUS ROSA (75221",
+    "preco": 831.9
+  },
+  {
+    "codigo": "1638899",
+    "marca": "Medicube",
+    "referencia": "8800289468674",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R BOOSTER PRO X2 BRANCO (468674)",
+    "preco": 2511.9
+  },
+  {
+    "codigo": "1628340",
+    "marca": "Medicube",
+    "referencia": "8800289468735",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R BOOSTER PRO X2 ROSA (468735)",
+    "preco": 2511.9
+  },
+  {
+    "codigo": "1603972",
+    "marca": "Medicube",
+    "referencia": "8800256109739",
+    "nome": "REJUVENESCEDOR FACIAL MEDICUBE AGE-R ULTRA TUNE 40.68 BRANCO (109739)",
+    "preco": 1260.9
+  },
+  {
+    "codigo": "1518689",
+    "marca": "Medicube",
+    "referencia": "8809936587119",
+    "nome": "SABONETE CORPO MEDICUBE RED ACNE 2.0 AHA BHA PHA NIACINAM 400G(587119)",
+    "preco": 184.9
+  },
+  {
+    "codigo": "1604528",
+    "marca": "Medicube",
+    "referencia": "8800289473630",
+    "nome": "SERUM FACIAL MEDICUBE AZELAIC ACID EXOSOME SHOT 2000 30ML (473630)",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1566963",
+    "marca": "Medicube",
+    "referencia": "8809981339206",
+    "nome": "SERUM FACIAL MEDICUBE COLLAGEN GLOW BOOSTER 15ML (339206)",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1518504",
+    "marca": "Medicube",
+    "referencia": "8809960356620",
+    "nome": "SERUM FACIAL MEDICUBE DEEP VITA A RETINOL 30ML (356620)",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1503616",
+    "marca": "Medicube",
+    "referencia": "8800240566944",
+    "nome": "SERUM FACIAL MEDICUBE DEEP VITA C AMPOULE 14.5% (3UNIDAD)30G(566944)",
+    "preco": 172.9
+  },
+  {
+    "codigo": "1566994",
+    "marca": "Medicube",
+    "referencia": "8800256112074",
+    "nome": "SERUM FACIAL MEDICUBE EXOSOME CICA 30ML (112074)",
+    "preco": 126.9
+  },
+  {
+    "codigo": "1518429",
+    "marca": "Medicube",
+    "referencia": "8800256115174",
+    "nome": "SERUM FACIAL MEDICUBE GLUTATHIONE GLOW 30GR (115174)",
+    "preco": 142.9
+  },
+  {
+    "codigo": "1582758",
+    "marca": "Medicube",
+    "referencia": "8800289477416",
+    "nome": "SERUM FACIAL MEDICUBE KOJIC ACID TURMERIC NIACINAMIDE 30ML (477416)",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1503654",
+    "marca": "Medicube",
+    "referencia": "8809981334928",
+    "nome": "SERUM FACIAL MEDICUBE ONE DAY EXOSOME SHOT 2000 30ML (334928)",
+    "preco": 125.9
+  },
+  {
+    "codigo": "1503661",
+    "marca": "Medicube",
+    "referencia": "8809982768524",
+    "nome": "SERUM FACIAL MEDICUBE ONE DAY EXOSOME SHOT 7500 30ML (768524)",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1590685",
+    "marca": "Medicube",
+    "referencia": "8800256115556",
+    "nome": "SERUM FACIAL MEDICUBE ONE DAY EXOSOME SHOT PORE 25000 13ML (115556)",
+    "preco": 163.9
+  },
+  {
+    "codigo": "1526707",
+    "marca": "Medicube",
+    "referencia": "8800256115365",
+    "nome": "SERUM FACIAL MEDICUBE PDRN 99% PINK ONE DAY (10UNIDADES) 1.5ML(115365)",
+    "preco": 100.9
+  },
+  {
+    "codigo": "1504675",
+    "marca": "Medicube",
+    "referencia": "8800256115549",
+    "nome": "SERUM FACIAL MEDICUBE PDRN PINK COLLAGEN EXOSOME SHOT 7500 30ML(115549",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1518573",
+    "marca": "Medicube",
+    "referencia": "8800256115532",
+    "nome": "SERUM FACIAL MEDICUBE PDRN PINK EXOSOME SHOT 2000 30ML (115532)",
+    "preco": 134.9
+  },
+  {
+    "codigo": "1518610",
+    "marca": "Medicube",
+    "referencia": "8800289474910",
+    "nome": "SERUM FACIAL MEDICUBE PDRN PINK GLUTATHIONE MIST 100M (112432/474910)",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1567038",
+    "marca": "Medicube",
+    "referencia": "8809517419709",
+    "nome": "SERUM FACIAL MEDICUBE RED ACNE SUCCUNIC ACID PEEL 40G (419709)",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1503708",
+    "marca": "Medicube",
+    "referencia": "8809883888574",
+    "nome": "SERUM FACIAL MEDICUBE RED SERUM 2.0 30ML (888574)",
+    "preco": 142.9
+  },
+  {
+    "codigo": "1597066",
+    "marca": "Medicube",
+    "referencia": "8800256119325",
+    "nome": "SERUM FACIAL MEDICUBE RETINOL NMN BOOSTING 30ML (119325)",
+    "preco": 134.9
+  },
+  {
+    "codigo": "1503289",
+    "marca": "Medicube",
+    "referencia": "8800240566913",
+    "nome": "SERUM FACIAL MEDICUBE TRIPLE COLLAGEN SERUM 4.0 55ML (114351/566913)",
+    "preco": 126.9
+  },
+  {
+    "codigo": "1500073",
+    "marca": "Medicube",
+    "referencia": "8800256119134",
+    "nome": "SERUM FACIAL MEDICUBE TXA NIACINAMIDE 15 30ML (X004K3T3FH/119134)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1623154",
+    "marca": "Medicube",
+    "referencia": "8800289467240",
+    "nome": "SERUM FACIAL MEDICUBE ZERO PORE ONE DAY PEPTIDE 30ML (467240)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1607796",
+    "marca": "Medicube",
+    "referencia": "8800289461965",
+    "nome": "SHAMPOO MEDICUBE ROSEMARY PDRN COOLING THICKENING 400ML(461965)",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1603613",
+    "marca": "Medicube",
+    "referencia": "8809517413646",
+    "nome": "SHAMPOO MEDICUBE SOYXIDIL 490ML (413646)",
+    "preco": 201.9
+  },
+  {
+    "codigo": "1518474",
+    "marca": "Medicube",
+    "referencia": "8800256114382",
+    "nome": "TONICO FACIAL MEDICUBE AGE-R GLUTATHIONE GLOW 140ML (114382)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1500134",
+    "marca": "Medicube",
+    "referencia": "8800256109661",
+    "nome": "TONICO FACIAL MEDICUBE LENCO DEEP VITA C PAD(70UN)150G(X003KEEK87/96",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1584677",
+    "marca": "Medicube",
+    "referencia": "8800289477386",
+    "nome": "TONICO FACIAL MEDICUBE LENCO KOJIC ACID TURMERIC PAD(70UN)160ML(477386",
+    "preco": 168.9
+  },
+  {
+    "codigo": "1500288",
+    "marca": "Medicube",
+    "referencia": "108374/114665",
+    "nome": "TONICO FACIAL MEDICUBE LENCO ZERO PORE PAD 2.0(70UN)155G (8374/4665)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1518559",
+    "marca": "Medicube",
+    "referencia": "8800256112234",
+    "nome": "TONICO FACIAL MEDICUBE PDRN PINK CICA SOOTHING 250ML (112234)",
+    "preco": 134.9
+  },
+  {
+    "codigo": "1504651",
+    "marca": "Medicube",
+    "referencia": "8800289470448",
+    "nome": "TONICO FACIAL MEDICUBE PDRN PINK COLLAGEN TONING GEL PAD(70UN)120(0448",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1590661",
+    "marca": "Medicube",
+    "referencia": "8800256119653",
+    "nome": "TONICO FACIAL MEDICUBE PDRN PINK NIACINAMIDE MILKY TONER 150ML (119653",
+    "preco": 142.9
+  },
+  {
+    "codigo": "1614763",
+    "marca": "Medicube",
+    "referencia": "8809883882275",
+    "nome": "TONICO FACIAL MEDICUBE RED TONER 2.0 PLUS 200ML (882275)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1518436",
+    "marca": "Medicube",
+    "referencia": "8800256114320",
+    "nome": "TONICO FACIAL MEDICUBE TRIPLE COLLAGEN 140ML (114320)",
+    "preco": 113.9
+  },
+  {
+    "codigo": "1534375",
+    "marca": "Medicube",
+    "referencia": "8809517414315",
+    "nome": "TONICO FACIAL MEDICUBE ZERO PORE PAD MILD (70UNIDADES)155G(414315)",
+    "preco": 159.9
+  },
+  {
+    "codigo": "1584653",
+    "marca": "Numbuzin",
+    "referencia": "8809652589800",
+    "nome": "CREME CONTORNO OLHOS NUMBUZIN NO9 NAD+ RETIN VOLUMET EYE CREAM 10(9800",
+    "preco": 176.9
+  },
+  {
+    "codigo": "1635041",
+    "marca": "Numbuzin",
+    "referencia": "8800312065351",
+    "nome": "CREME CONTORNO OLHOS NUMBUZIN NO9 NAD+ RETIN VOLUMET EYE CREAM 20(5351",
+    "preco": 210.9
+  },
+  {
+    "codigo": "1600810",
+    "marca": "Numbuzin",
+    "referencia": "8809652583228",
+    "nome": "CREME FACIAL NUMBUZIN NO1 PANTOTHENIC B5 ACTIVE SOOTHING 80ML (583228)",
+    "preco": 235.9
+  },
+  {
+    "codigo": "1526806",
+    "marca": "Numbuzin",
+    "referencia": "8809652587639",
+    "nome": "ESSENCIA FACIAL NUMBUZIN NO9 NAD+ BIO LIFTING-SIL 50ML (587639)",
+    "preco": 277.9
+  },
+  {
+    "codigo": "1600858",
+    "marca": "Numbuzin",
+    "referencia": "8809652588728",
+    "nome": "MASCARA FACIAL NUMBUZIN NO1 PANTOTHENIC B5 HYAL ACT CLEAR(1UN)26M(8728",
+    "preco": 25.9
+  },
+  {
+    "codigo": "1600872",
+    "marca": "Numbuzin",
+    "referencia": "8809652589404",
+    "nome": "MASCARA FACIAL NUMBUZIN NO2 ROSE PDRN COLLAG PLUMP SHEET(1UN)33ML(9404",
+    "preco": 42.9
+  },
+  {
+    "codigo": "1600865",
+    "marca": "Numbuzin",
+    "referencia": "8809652589527",
+    "nome": "MASCARA FACIAL NUMBUZIN NO2 ROSE PDRN OVERNIGHT COLLAG(1UNI)37G (89527",
+    "preco": 50.9
+  },
+  {
+    "codigo": "1640236",
+    "marca": "Numbuzin",
+    "referencia": "8809652580906",
+    "nome": "MASCARA FACIAL NUMBUZIN NO2 WATER COLLAGEN 65% VOLUMING(1UN)33ML(80906",
+    "preco": 33.9
+  },
+  {
+    "codigo": "1628449",
+    "marca": "Numbuzin",
+    "referencia": "8809652580272",
+    "nome": "MASCARA FACIAL NUMBUZIN NO3 TINGLE-PORE SOFTENING (1UNI)27ML (580272)",
+    "preco": 25.9
+  },
+  {
+    "codigo": "1600919",
+    "marca": "Numbuzin",
+    "referencia": "8809652580449",
+    "nome": "MASCARA FACIAL NUMBUZIN NO4 ICY SOOTHING SHEET (1UNI)27ML (580449)",
+    "preco": 25.9
+  },
+  {
+    "codigo": "1600933",
+    "marca": "Numbuzin",
+    "referencia": "8809652582221",
+    "nome": "MASCARA FACIAL NUMBUZIN NO5 GLUTATH+VIT C CONCENT (1UNI)27ML (582221)",
+    "preco": 25.9
+  },
+  {
+    "codigo": "1628111",
+    "marca": "Numbuzin",
+    "referencia": "8809652587646",
+    "nome": "MASCARA FACIAL NUMBUZIN NO9 NAD+ BIO LIFTI-SIL FUL FACE(1UN)48ML(87646",
+    "preco": 50.9
+  },
+  {
+    "codigo": "1600827",
+    "marca": "Numbuzin",
+    "referencia": "8809652584379",
+    "nome": "PO FACIAL NUMBUZIN NO1 PANTOTHENIC B5 ACTIVE DRYING POWDER 7G (584379)",
+    "preco": 92.9
+  },
+  {
+    "codigo": "1518962",
+    "marca": "Numbuzin",
+    "referencia": "8809652581774",
+    "nome": "SERUM FACIAL NUMBUZIN 5+ GLUTATHIONE VITAMIN CONCENTRATED 30ML(581774)",
+    "preco": 218.9
+  },
+  {
+    "codigo": "1636918",
+    "marca": "Numbuzin",
+    "referencia": "8809652589848",
+    "nome": "SERUM FACIAL NUMBUZIN NO2 ROSE PDRN+MULT- PEPT COL PLUM DUO(10U)1.2(848",
+    "preco": 151.9
+  },
+  {
+    "codigo": "1636901",
+    "marca": "Numbuzin",
+    "referencia": "8809652588049",
+    "nome": "SERUM FACIAL NUMBUZIN NO9+ NAD+ BIO LIFTING-SIL ESSENC 3 TYPE SACH(049",
+    "preco": 16.9
+  },
+  {
+    "codigo": "1600803",
+    "marca": "Numbuzin",
+    "referencia": "8809652581453",
+    "nome": "TONICO FACIAL NUMBUZIN NO1 PURE-FULL CALMING HERB CICA+PANT 300M(81453",
+    "preco": 201.9
+  }
+]
