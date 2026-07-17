@@ -222,10 +222,15 @@ section h2 {
 .marca-card {
   background: var(--creme-card);
   border: 1px solid var(--borda);
+  border-top: 4px solid var(--borda);
   border-radius: 18px;
   padding: 26px 22px;
   box-shadow: var(--sombra);
 }
+
+.marca-card-medicube { border-top-color: #4a7ad1; }
+.marca-card-numbuzin { border-top-color: #966cc9; }
+.marca-card-celimax { border-top-color: #7aa860; }
 
 .marca-card h3 {
   margin: 0 0 14px;
