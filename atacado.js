@@ -8,16 +8,25 @@
     Celimax: `<img src="logos/celimax.png" alt="Celimax" class="logo-celimax" />`,
   };
 
-  // Selecionados com base em pesquisa dos produtos mais hypados/virais de
-  // cada marca (TikTok, best-sellers oficiais) — não é só o mais caro.
+  // Selecionados manualmente pelo cliente — fotos com fundo removido em
+  // produtos-transparente/, mapeadas pelo código do produto no catálogo.
   const DESTAQUES = [
-    "ZERO PORE 2.0",
-    "DEEP VITA C CAPSULE",
+    "PDRN PINK COLLAGEN CAPSULE",
+    "ZERO PORE ONE DAY",
+    "NAD+ RETIN VOLUMET EYE CREAM 10",
     "NO9 NAD+ BIO LIFTING",
-    "5+ GLUTATHIONE",
     "VITA-A RETINAL SHOT TIGHTENING",
-    "REAL NONI ENERGY REPAIR",
+    "VITA-A 7DAYS",
   ];
+
+  const FOTOS_TRANSPARENTES = {
+    1628425: "produtos-transparente/1628425.png",
+    1518702: "produtos-transparente/1518702.png",
+    1584653: "produtos-transparente/1584653.png",
+    1526806: "produtos-transparente/1526806.png",
+    1553376: "produtos-transparente/1553376.png",
+    1608427: "produtos-transparente/1608427.png",
+  };
 
   function escolherDestaques(catalogo) {
     const escolhidos = [];
@@ -52,7 +61,7 @@
       const destaques = escolherDestaques(catalogo);
       grade.innerHTML = destaques
         .map((p) => {
-          const foto = fotos[p.codigo];
+          const foto = FOTOS_TRANSPARENTES[p.codigo] || fotos[p.codigo];
           const classeMarca = `glow-${p.marca.toLowerCase()}`;
           const fotoHtml = foto
             ? `<img class="produto-foto" src="${foto}" alt="${p.nome}" loading="lazy" />`
