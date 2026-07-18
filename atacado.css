@@ -51,6 +51,12 @@ h1, h2, h3 {
   border: 1.5px solid var(--rosa);
 }
 
+.botao-whatsapp {
+  background: #25d366;
+  color: #fff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
 /* Nav */
 .nav {
   position: sticky;
@@ -67,6 +73,7 @@ h1, h2, h3 {
   padding: 14px 20px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .nav-logo {
@@ -77,6 +84,16 @@ h1, h2, h3 {
 
 .nav-logo strong {
   color: var(--texto);
+}
+
+.nav-cta {
+  background: #25d366;
+  color: #fff;
+  padding: 9px 18px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none;
 }
 
 /* Hero */
@@ -282,22 +299,14 @@ section h2 {
   align-items: center;
   justify-content: center;
   padding: 22px;
-  border-bottom: 1px solid var(--borda);
-  background: #fdfaf8;
+  border-bottom: 3px solid var(--acento, var(--borda));
+  background: transparent;
   overflow: hidden;
 }
 
-.produto-foto-wrap::before {
-  content: "";
-  position: absolute;
-  inset: -20%;
-  background: var(--glow, radial-gradient(circle, rgba(201, 138, 156, 0.35), transparent 65%));
-  filter: blur(6px);
-}
-
-.produto-foto-wrap.glow-medicube { --glow: radial-gradient(circle, rgba(74, 122, 209, 0.32), transparent 65%); }
-.produto-foto-wrap.glow-numbuzin { --glow: radial-gradient(circle, rgba(150, 108, 201, 0.32), transparent 65%); }
-.produto-foto-wrap.glow-celimax { --glow: radial-gradient(circle, rgba(122, 168, 96, 0.32), transparent 65%); }
+.produto-foto-wrap.glow-medicube { --acento: #4a7ad1; }
+.produto-foto-wrap.glow-numbuzin { --acento: #966cc9; }
+.produto-foto-wrap.glow-celimax { --acento: #7aa860; }
 
 .produto-foto {
   position: relative;

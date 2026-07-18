@@ -8,13 +8,15 @@
     Celimax: `<img src="logos/celimax.png" alt="Celimax" class="logo-celimax" />`,
   };
 
+  // Selecionados com base em pesquisa dos produtos mais hypados/virais de
+  // cada marca (TikTok, best-sellers oficiais) — não é só o mais caro.
   const DESTAQUES = [
-    "AGE-R BOOSTER PRO 6EM1",
-    "ZERO PORE",
-    "NUMBUZIN NO9 NAD+ BIO LIFTING",
-    "NUMBUZIN NO1 PANTOTHENIC",
-    "CELIMAX DUAL BARRIER BOOSTING",
-    "CELIMAX THE REAL NONI",
+    "ZERO PORE 2.0",
+    "DEEP VITA C CAPSULE",
+    "NO9 NAD+ BIO LIFTING",
+    "5+ GLUTATHIONE",
+    "VITA-A RETINAL SHOT TIGHTENING",
+    "REAL NONI ENERGY REPAIR",
   ];
 
   function escolherDestaques(catalogo) {
