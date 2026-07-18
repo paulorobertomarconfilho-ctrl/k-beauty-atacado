@@ -198,9 +198,16 @@ h1, h2, h3 {
 
 .logo-medicube,
 .logo-numbuzin,
-.logo-celimax,
-.logo-skin1004 {
+.logo-celimax {
   height: 18px;
+  width: auto;
+  display: block;
+}
+
+.logo-skin1004 {
+  /* Wordmark oficial é bem fino e espaçado — precisa de mais altura que
+     as outras marcas pra ficar legível no mesmo tamanho de badge. */
+  height: 26px;
   width: auto;
   display: block;
 }
@@ -260,9 +267,12 @@ section h2 {
 
 .marca-card h3 .logo-medicube,
 .marca-card h3 .logo-numbuzin,
-.marca-card h3 .logo-celimax,
-.marca-card h3 .logo-skin1004 {
+.marca-card h3 .logo-celimax {
   height: 26px;
+}
+
+.marca-card h3 .logo-skin1004 {
+  height: 32px;
 }
 
 .marca-card p {
