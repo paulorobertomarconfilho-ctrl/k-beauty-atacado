@@ -198,7 +198,8 @@ h1, h2, h3 {
 
 .logo-medicube,
 .logo-numbuzin,
-.logo-celimax {
+.logo-celimax,
+.logo-skin1004 {
   height: 18px;
   width: auto;
   display: block;
@@ -231,7 +232,7 @@ section h2 {
 /* Marcas */
 .marcas-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 20px;
   margin-top: 36px;
 }
@@ -248,6 +249,7 @@ section h2 {
 .marca-card-medicube { border-top-color: #4a7ad1; }
 .marca-card-numbuzin { border-top-color: #966cc9; }
 .marca-card-celimax { border-top-color: #7aa860; }
+.marca-card-skin1004 { border-top-color: #2f9b8e; }
 
 .marca-card h3 {
   margin: 0 0 14px;
@@ -258,7 +260,8 @@ section h2 {
 
 .marca-card h3 .logo-medicube,
 .marca-card h3 .logo-numbuzin,
-.marca-card h3 .logo-celimax {
+.marca-card h3 .logo-celimax,
+.marca-card h3 .logo-skin1004 {
   height: 26px;
 }
 
