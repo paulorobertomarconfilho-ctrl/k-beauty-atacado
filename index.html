@@ -3,6 +3,14 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<script>
+  // Alguns navegadores (Chrome) restauram a posição de rolagem anterior ao
+  // recarregar a página — força sempre abrir do topo. Precisa rodar antes
+  // do navegador aplicar a restauração, por isso fica no <head>.
+  if ("scrollRestoration" in history) {
+    history.scrollRestoration = "manual";
+  }
+</script>
 <title>Skincare Coreano no Atacado — Medicube, Numbuzin, Celimax</title>
 <meta name="description" content="Revenda os skincares coreanos mais desejados do momento. Preço de atacado, catálogo com mais de 100 produtos das marcas Medicube, Numbuzin e Celimax." />
 
