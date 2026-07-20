@@ -212,6 +212,26 @@ h1, h2, h3 {
   display: block;
 }
 
+.logo-kerasys {
+  height: 18px;
+  width: auto;
+  display: block;
+}
+
+.logo-elizavecca {
+  /* Logo oficial é um script fino em baixa resolução — precisa de mais
+     altura que as outras marcas pra não ficar ilegível no badge. */
+  height: 22px;
+  width: auto;
+  display: block;
+}
+
+.logo-miseenscene {
+  height: 16px;
+  width: auto;
+  display: block;
+}
+
 
 /* Seções genéricas */
 section.marcas,
@@ -257,6 +277,9 @@ section h2 {
 .marca-card-numbuzin { border-top-color: #966cc9; }
 .marca-card-celimax { border-top-color: #7aa860; }
 .marca-card-skin1004 { border-top-color: #2f9b8e; }
+.marca-card-elizavecca { border-top-color: #e8935c; }
+.marca-card-kerasys { border-top-color: #b8860b; }
+.marca-card-miseenscene { border-top-color: #4aa3c9; }
 
 .marca-card h3 {
   margin: 0 0 14px;
@@ -267,12 +290,21 @@ section h2 {
 
 .marca-card h3 .logo-medicube,
 .marca-card h3 .logo-numbuzin,
-.marca-card h3 .logo-celimax {
+.marca-card h3 .logo-celimax,
+.marca-card h3 .logo-kerasys {
   height: 26px;
 }
 
 .marca-card h3 .logo-skin1004 {
   height: 32px;
+}
+
+.marca-card h3 .logo-elizavecca {
+  height: 30px;
+}
+
+.marca-card h3 .logo-miseenscene {
+  height: 22px;
 }
 
 .marca-card p {
@@ -320,6 +352,9 @@ section h2 {
 .produto-foto-wrap.glow-medicube { --acento: #4a7ad1; }
 .produto-foto-wrap.glow-numbuzin { --acento: #966cc9; }
 .produto-foto-wrap.glow-celimax { --acento: #7aa860; }
+.produto-foto-wrap.glow-elizavecca { --acento: #e8935c; }
+.produto-foto-wrap.glow-kerasys { --acento: #b8860b; }
+.produto-foto-wrap.glow-miseenscene { --acento: #4aa3c9; }
 
 .produto-foto {
   position: relative;
