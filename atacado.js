@@ -132,16 +132,12 @@
           const fotoHtml = foto
             ? `<img class="produto-foto" src="${foto}" alt="${p.nome}" loading="lazy" />`
             : `<div class="produto-foto produto-foto-vazia">🧴</div>`;
-          const precoHtml = p.preco
-            ? `<div class="preco-atacado">R$ ${p.preco.toFixed(2).replace(".", ",")} <span>no atacado</span></div>`
-            : "";
           return `
         <div class="produto-card">
           <div class="produto-foto-wrap ${classeMarca}">${fotoHtml}</div>
           <div class="produto-card-info">
             <div class="marca">${LOGO_MARCA[p.marca] || p.marca}</div>
             <div class="nome">${p.nome}</div>
-            ${precoHtml}
           </div>
         </div>`;
         })

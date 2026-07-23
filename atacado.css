@@ -458,21 +458,6 @@ section h2 {
   -webkit-box-orient: vertical;
 }
 
-.preco-atacado {
-  font-size: 0.95rem;
-  font-weight: 700;
-  color: var(--rosa-escuro);
-  margin-top: 2px;
-}
-
-.preco-atacado span {
-  font-size: 0.7rem;
-  font-weight: 500;
-  color: var(--texto-suave);
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-}
-
 .produto-skeleton {
   height: 128px;
   border-radius: 14px;
