@@ -237,7 +237,8 @@ h1, h2, h3 {
 section.marcas,
 section.produtos,
 section.beneficios,
-section.como-funciona {
+section.como-funciona,
+section.compra {
   max-width: 1080px;
   margin: 0 auto;
   padding: 64px 20px;
@@ -254,6 +255,60 @@ section h2 {
   text-align: center;
   color: var(--texto-suave);
   margin: 0 0 36px;
+}
+
+/* Atacado x Varejo */
+.compra-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  margin-top: 36px;
+}
+
+.compra-card {
+  background: var(--creme-card);
+  border: 1px solid var(--borda);
+  border-radius: 18px;
+  padding: 28px 24px;
+  box-shadow: var(--sombra);
+  text-align: center;
+}
+
+.compra-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--rosa) 0%, var(--rosa-escuro) 100%);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 999px;
+  margin-bottom: 14px;
+}
+
+.compra-card h3 {
+  font-size: 1.15rem;
+  margin: 0 0 10px;
+  color: var(--texto);
+}
+
+.compra-card p {
+  font-size: 0.9rem;
+  color: var(--texto-suave);
+  line-height: 1.55;
+  margin: 0 0 20px;
+}
+
+.compra-card .botao {
+  width: 100%;
+}
+
+.compra-entrega {
+  text-align: center;
+  color: var(--texto-suave);
+  font-size: 0.88rem;
+  margin: 28px 0 0;
 }
 
 /* Marcas */
@@ -401,6 +456,21 @@ section h2 {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+}
+
+.preco-atacado {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--rosa-escuro);
+  margin-top: 2px;
+}
+
+.preco-atacado span {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--texto-suave);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
 }
 
 .produto-skeleton {
